@@ -9,7 +9,7 @@ import (
 )
 
 const (
-	AccessToken    = "6887425159:AAERVk6Rs4W90PfczuHLN68EjG8OM-1Btbs" // Replace with your actual access token
+	AccessToken    = "" // Replace with your actual access token
 	TelegramApiUrl = "https://api.telegram.org"
 )
 
